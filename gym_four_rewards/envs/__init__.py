@@ -1,0 +1,1 @@
+from gym_four_rewards.envs.basic_env import FourRewardsEnv
